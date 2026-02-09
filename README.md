@@ -1,1 +1,1 @@
-# squamish-kit-bot
+# squamish-kite-bot
